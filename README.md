@@ -3,7 +3,7 @@
 #### ⚡ The following are my blogs & studynote & documentations. ⚡ 
 
 - **My Blog(Main): https://agou-ops.github.io**
-- **My Blog(Backup): http://x.agou-ops.top**
+- **My Blog(Backup): https://x.agou-ops.top**
 - **My Docs(Main): https://agou-ops.top/beforeWork**
 - **My Docs(Backup): https://d.agou-ops.top**
 - **myStudyNote: https://agou-ops.top/myStudyNote**
