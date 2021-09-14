@@ -2,11 +2,11 @@
 
 #### ⚡ The following are my blogs & studynote & documentations. ⚡ 
 
-- **My Blog(Main): https://agou-ops.cn**
-- **My Blog(Backup): https://agou-ops.cn/myBlog-2**
-- **My Docs(Main): https://agou-ops.cn/myDocs**
-- My Docs(Backup): https://d.agou-ops.top **[deprecated]**
-- myStudyNote: https://agou-ops.cn/myStudyNote **[deprecated]**
+- **my Blog(Main): https://agou-ops.cn**
+- **my Blog(Backup): https://agou-ops.cn/myBlog-2**
+- **my Docs(Main): https://agou-ops.cn/myDocs**
+- my Docs(Backup): https://d.agou-ops.top  **[DEPRECATED]**
+- myStudyNote: https://agou-ops.cn/myStudyNote  **[DEPRECATED]**
 
 <!--
 **AGou-ops/AGou-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
