@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 -->
 
 
-![AGou-ops' GitHub stats🎉](https://github-readme-stats.vercel.app/api?username=AGou-ops&show_icons=true&bg_color=000000&title_color=00FF00&icon_color=FFFF00&text_color=00FF00&hide_border=true)
+
+[![AGou-ops' GitHub stats🎉](https://github-readme-stats.vercel.app/api?username=AGou-ops&show_icons=true&bg_color=000000&title_color=00FF00&icon_color=FFFF00&text_color=00FF00&hide_border=true)](https://agou-ops.github.io/-/)
