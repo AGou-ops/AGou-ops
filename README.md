@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![AGou-ops' GitHub stats🎉](https://github-readme-stats.vercel.app/api?username=AGou-ops&show_icons=true&bg_color=000000&title_color=00FF00&icon_color=FFFF00&text_color=00FF00&hide_border=true)
