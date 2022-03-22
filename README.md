@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Visitor Count](https://profile-counter.glitch.me/AGou-ops/count.svg)](#)
+Visitor Count:   
+[![Visitor Count](https://profile-counter.glitch.me/AGou-ops/count.svg)](#)【FROM 2022-03-22 17:24:12】
 
 
 [![AGou-ops' GitHub stats🎉](https://github-readme-stats.vercel.app/api?username=AGou-ops&show_icons=true&bg_color=000000&title_color=00FF00&icon_color=FFFF00&text_color=00FF00&hide_border=true)](https://agou-ops.github.io/-/)
