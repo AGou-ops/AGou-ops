@@ -6,7 +6,8 @@
 
 - **my Blog(Main): https://agou-ops.cn**
 - **my Blog(Backup): https://agou-ops.cn/myBlog-2**
-- **my Docs(Main): https://agou-ops.cn/myDocs**
+- **my Docs(Main): https://docs.agou-ops.cn/**
+- **my Docs(Backup): https://agou-ops.cn/myDocsv2**
 - my Docs(Backup): https://d.agou-ops.top  **[DEPRECATED]**
 - myStudyNote: https://agou-ops.cn/myStudyNote  **[DEPRECATED]**
 
