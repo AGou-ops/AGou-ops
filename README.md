@@ -5,9 +5,9 @@
 #### ⚡ The following are my blogs & studynote & documentations. ⚡ 
 
 - **my Blog(Main): https://agou-ops.cn**
-- **my Blog(Backup): https://agou-ops.cn/myBlog-2**
+- **my Blog(Backup): https://agou-ops.cn/myBlog4**
 - **my Docs(Main): https://docs.agou-ops.cn/**
-- **my Docs(Backup): https://agou-ops.cn/myDocsv2**
+- **my Docs(Backup): https://agou-ops.cn/myDocs3**
 - my Docs(Backup): https://d.agou-ops.top  **[DEPRECATED]**
 - myStudyNote: https://agou-ops.cn/myStudyNote  **[DEPRECATED]**
 
