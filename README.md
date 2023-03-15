@@ -34,5 +34,13 @@ Visitor Count:
 <td><img src="https://github-readme-stats-agou-ops.vercel.app/api/top-langs/?username=AGou-ops&layout=compact&show_icons=true&bg_color=000000&border_color=302d41&title_color=00FF00&text_color=00FF00&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" /></td>
 </tr></table>
 
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 
