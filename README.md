@@ -29,8 +29,8 @@ Visitor Count:
 [![Visitor Count](https://profile-counter.glitch.me/AGou-ops/count.svg)](#)【FROM 2022-03-22 17:24:12】 
 
 <table><tr>
-<td><img height="170" align="left" src="https://github-readme-stats-agou-ops.vercel.app/api?username=AGou-ops&show_icons=true&bg_color=000000&title_color=00FF00&icon_color=FFFF00&text_color=00FF00&hide_border=true" alt="Github Stats" /></td>
-<td><img src="https://github-readme-stats-agou-ops.vercel.app/api/top-langs/?username=AGou-ops&layout=compact&show_icons=true&bg_color=000000&border_color=302d41&title_color=00FF00&text_color=00FF00&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" /></td>
+<td><img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=AGou-ops&show_icons=true&bg_color=000000&title_color=00FF00&icon_color=FFFF00&text_color=00FF00&hide_border=true" alt="Github Stats" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGou-ops&layout=compact&show_icons=true&bg_color=000000&border_color=302d41&title_color=00FF00&text_color=00FF00&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" /></td>
 </tr></table>
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
