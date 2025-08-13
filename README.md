@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Visitor Count:   
-![Visitor Count](https://profile-counter.deno.dev/AGou-ops/count.svg)【FROM 2025-08-13 09:09:20】
-
+![](https://komarev.com/ghpvc/?username=AGou-ops&style=for-the-badge&color=brightgreen)
 <table><tr>
 <td><img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=AGou-ops&show_icons=true&bg_color=000000&title_color=00FF00&icon_color=FFFF00&text_color=00FF00&hide_border=true" alt="Github Stats" /></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGou-ops&layout=compact&show_icons=true&bg_color=000000&border_color=302d41&title_color=00FF00&text_color=00FF00&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" /></td>
